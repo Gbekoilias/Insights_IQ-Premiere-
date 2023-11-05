@@ -1,5 +1,0 @@
-Project Documentation (.docX)
-Presentation (pptx)
-Github repo link 
-Team List
-Project Notebook (.ipynb)
